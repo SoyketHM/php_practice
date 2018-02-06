@@ -1,0 +1,7 @@
+# Problem_1
+It is Addition Related Problem.
+Input n'th int number, Then sum all input by using for loop.
+
+#Problem_2
+It is Date Time Related Problem.
+I have a varchar data like "2:27 pm | 21/06/2017" . Then i convert it Timestamp formate and update that my DB for whole column.
