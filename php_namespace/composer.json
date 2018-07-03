@@ -1,0 +1,15 @@
+{
+    "name": "ruhul/php_namespace",
+    "authors": [
+        {
+            "name": "soyket",
+            "email": "soykethandymama@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"Animals\\":"Animals/"
+    	}
+    }
+}
